@@ -1,4 +1,4 @@
-This project processes and analyzes data related to airports and their communication frequencies. The core functionalities of the code involve loading data, calculating averages, generating graphs, and filtering data based on user input. Here’s a breakdown of the key components:
+This was a universtiy assignemnt/project for the Advanced Programming module that processes and analyzes data related to airports and their communication frequencies. The core functionalities of the code involve loading data, calculating averages, generating graphs, and filtering data based on user input. Here’s a breakdown of the key components:
 
 ### 1. **Data Loading**:
    - The code reads two CSV files: `airports.csv` and `airport-frequencies.csv`.
